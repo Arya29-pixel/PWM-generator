@@ -6,10 +6,6 @@ This project implements an **8-bit PWM (Pulse Width Modulation) Generator** usin
 
 The design uses a simple counter and comparator-based approach to generate a PWM output signal with a variable duty cycle. The design is modeled using **behavioral Verilog** and verified through simulation using **Xilinx Vivado**.
 
----
-| 04 | Arya Mahesh Pal | — |
-
-**Date of Submission:** 05-04-2026
 
 ## Abstract
 
